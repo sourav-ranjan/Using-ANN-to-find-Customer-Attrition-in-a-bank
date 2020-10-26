@@ -3,8 +3,8 @@ Customer churn occurs when customers stop doing business with a company, also kn
 
 #Output of the program:
 
-A CSV file (judge-pred.csv) containing the predicted labels (by your best performing ArtificialNeural Network in terms of accuracy) of the 1000 customers in exact same order of the judgeset. The format is below:
+A CSV file (judge-pred.csv) containing the predicted labels (by your best performing ArtificialNeural Network in terms of accuracy) of the 1000 customers in exact same order of the judgeset. The format is below:  
 
-CustomerID,Exited
-12345,1
+CustomerID,Exited  
+12345,1  
 34567,0
